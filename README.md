@@ -10,7 +10,7 @@ version 3 or later.
 
 ## Credits
 
-+ [Cathy Fitzpatrick](cathyjf) (cathyjf) created this program and
++ [Cathy Fitzpatrick][cathyjf] (cathyjf) created this program and
   analysed the results.
 + The experiment design was a joint effort of Cathy Fitzpatrick and
   [david stone][doublewise].
