@@ -18,7 +18,7 @@
  **/
 
 require_once('jpgraph/jpgraph.php');
-require_once('jpgraph/jpgraph_bar.php');
+require_once('jpgraph/jpgraph_line.php');
 
 $param = $_GET['data'];
 $min = (double)$_GET['min'];
@@ -31,17 +31,22 @@ foreach ($data as &$i) {
 
 $intervals = (int)(($max - $min) / $step) + 1;
 $x = array();
+
+$x[] = $min + $step / 2;
+array_unshift($data, 0);
+
 for ($i = 0; $i < $intervals; ++$i) {
-	$x[] = $min + $step * $i;
+	$x[] = $min + $step * ($i + 0.5);
 }
-$x[] = $x[$i - 1] + $step / 2;
+
+$x[] = $x[$i];
 $data[] = 0;
 
 $graph = new Graph(400, 300);
 $graph->SetScale('int');
-$bar1 = new BarPlot($data, $x);
-$bar1->SetWidth($step / 2);
-$graph->Add($bar1);
+$line = new LinePlot($data, $x);
+$line->AddArea(0, $i, true, '#abc9e7');
+$graph->Add($line);
 $graph->Stroke();
 
 ?>
