@@ -115,7 +115,7 @@ being this far apart, or father, if proper capitalisation has no effect on the c
 low p-value suggests that the population means are not equal, i.e., that proper capitalisation
 has a statistically significant effect on completion time.
 
-### Table 2: Breakdown of tests
+### Table 2: Breakdown of completed tests with acceptable scores
 
 <table border="1">
   <tbody>
