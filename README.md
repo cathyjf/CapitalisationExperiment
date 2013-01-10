@@ -2,7 +2,7 @@
 
 Does the use of capital letters in English affect reading speed (compared to
 using all lowercase)? In May 2009, using the program contained in this
-repository, [Cathy Fitzpatrick][cathyjf] and [David Stone][doublwise] carried
+repository, [Cathy Fitzpatrick][cathyjf] and [David Stone][doublewise] carried
 out an experiment to attempt to answer this question.
 
 ## Experimental design
@@ -13,12 +13,18 @@ TODO
 
 _TODO: Improve this section to add more explanation._
 
-427 tests were initiated, of which 261 were completed, of which 229 had acceptable scores
-(>= 50%).
-For the remainder of this page, we consider only completed tests with acceptable scores.
-Data from incomplete tests or tests with unacceptable scores is not considered.
+Overview of data:
 
-### Table 1: Mean times among completed tests
++ 427 tests were initiated
++ 261 tests were completed
++ 229 tests had acceptable scores (≥ 50%)
+
+For the remainder of this page, we consider only completed tests with acceptable scores.
+The other data is discarded.
+
+All times are measured in minutes.
+
+### Table 1: Mean times
 
 <table border="1">
   <tbody>
@@ -112,7 +118,7 @@ has a statistically significant effect on completion time.
 <p><small>** There is strong evidence that this data did not come from a normal
 distribution.</small></p>
 
-### Table 2: Breakdown of completed tests
+### Table 2: Breakdown of tests
 
 <table border="1">
   <tbody>
@@ -168,7 +174,7 @@ distribution.</small></p>
   </tbody>
 </table>
 
-### Table 3: Plots of time distributions for each test</p>
+### Table 3: Plots of time distributions for each test
 
 <table>
 <tr>
@@ -236,6 +242,10 @@ distribution.</small></p>
   </td>
 </tr>
 </table>
+
+## Conclusion
+
+TODO
 
 ## Licence
 
