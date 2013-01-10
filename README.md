@@ -15,6 +15,7 @@ _TODO: Improve this section to add more explanation._
 
 Overview of data:
 
++ 317 unique persons (IP addresses) participated
 + 427 tests were initiated
 + 261 tests were completed
 + 229 tests had acceptable scores (≥ 50%)
