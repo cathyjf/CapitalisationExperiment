@@ -85,7 +85,7 @@ All times are measured in minutes.
 
       <td>(2.58, 4.31)</td>
 
-      <td><a href="#g6"><i>1.018</i><sup>**</sup></a></td>
+      <td><a href="#g6" title="There is strong evidence that this data did not come from a normal distribution."><i>1.018</i></a></td>
 
       <td>(-1.07, 1.64)</td>
 
@@ -114,9 +114,6 @@ The intervals are all 95% confidence intervals. The p-value is the chance of the
 being this far apart, or father, if proper capitalisation has no effect on the completion time. A
 low p-value suggests that the population means are not equal, i.e., that proper capitalisation
 has a statistically significant effect on completion time.
-
-<p><small>** There is strong evidence that this data did not come from a normal
-distribution.</small></p>
 
 ### Table 2: Breakdown of tests
 
