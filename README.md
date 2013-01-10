@@ -2,7 +2,7 @@
 
 Does the use of capital letters in English affect reading speed (compared to
 using all lowercase)? In May 2009, using the program contained in this
-repository, [Cathy Fitzpatrick][cathyjf] and [David Stone][doublewise] carried
+repository, [Cathy J. Fitzpatrick][cathyjf] and [David Stone][doublewise] carried
 out an experiment to attempt to answer this question.
 
 ## Experimental design
@@ -254,7 +254,7 @@ version 3 or later.
 
 ## Credits
 
-+ [Cathy Fitzpatrick][cathyjf] (cathyjf) created this program and
++ [Cathy J. Fitzpatrick][cathyjf] (cathyjf) created this program and
   analysed the results.
 + The experiment design was a joint effort of Cathy Fitzpatrick and
   [David Stone][doublewise].
