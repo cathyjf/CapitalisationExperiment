@@ -253,7 +253,7 @@ version 3 or later.
 
 + [Cathy J. Fitzpatrick][cathyjf] (cathyjf) created this program and
   analysed the results.
-+ The experiment design was a joint effort of Cathy Fitzpatrick and
++ The experiment design was a joint effort of Cathy J. Fitzpatrick and
   [David Stone][doublewise].
 
 [agpl3]: http://www.fsf.org/licensing/licenses/agpl-3.0.html
