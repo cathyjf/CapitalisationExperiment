@@ -17,7 +17,7 @@ whether capitals were used.
 
 The study was conducted using a reading comprehension web application written by
 [Cathy J. Fitzpatrick][cathyjf] and contained in this repository. The study web
-study explained the nature of the study and invited visitors to participate.
+site explained the nature of the study and invited visitors to participate.
 Potential participants were advised that the study would require up to ten
 minutes of their time and that they would be timed, so they should focus exclusively
 on the reading comprehension test for the duration of those up to ten minutes.
