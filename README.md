@@ -137,13 +137,13 @@ All times are measured in minutes.
 </tr>
 </table>
 
-The Anderson-Darling statistic (A<sup>*2</sup>) was calculated for each of the eight
+The [Anderson-Darling statistic][A-star] (A<sup>*2</sup>) was calculated for each of the eight
 samples in order to determine whether each sample came from a normally distributed
 population. With the exception of normally capitalised test 2, there was no reason
 to believe that any of the populations were non-normal. Normally capitalised test 2
 exhibited an unusual distribution, but that was ultimately not significant.
 
-For each test, we used the two-tailed Student's t-test to determine whether the
+For each test, we used the two-tailed [Student's t-test][t-test] to determine whether the
 population mean completion lowercase time was equal to the population mean normally
 capitalised time. One requirement for this test is that each of the populations
 are normally distributed, which appeared to be the case here (again with the possible
@@ -159,6 +159,21 @@ the mean reading time is the same regardless of whether capitals are employed.
 For tests 1 through 3, the interval does contain zero, but in the case of test 0,
 it does not contain zero, so with 95% confidence, the population means are not equal
 for test 0.
+
+### Conclusion
+
+There was no reason to reject the null hypothesis for tests 1 through 3. The P-value
+was very high for tests 1 and 3. Although it was slightly lower for test 2, it was still
+very high, and the relatively low value was likely a result of the non-normal shape of
+the sample data. However, in the case of test 0, the P-value was much lower and provides
+evidence that the mean reading time was different for that test depending on whether
+it was in capitals or all-lowercase.
+
+These results suggest that for most texts, whether a text is capitalised or not has no
+effect on reading speed, but for certain texts it may provide a marginal benefit.
+Assuming the effect was not jus caused by chance (which there is a 3.98% probability of),
+it was not clear from our study which properties of text 0 caused the use of capitals to
+provide a benefit.
 
 ### Table 2: Breakdown of completed tests with acceptable scores
 
@@ -285,21 +300,6 @@ for test 0.
 </tr>
 </table>
 
-## Conclusion
-
-There was no reason to reject the null hypothesis for tests 1 through 3. The P-value
-was very high for tests 1 and 3. Although it was slightly lower for test 2, it was still
-very high, and the relatively low value was likely a result of the non-normal shape of
-the sample data. However, in the case of test 0, the P-value was much lower and provides
-evidence that the mean reading time was different for that test depending on whether
-it was in capitals or all-lowercase.
-
-These results suggest that for most texts, whether a text is capitalised or not has no
-effect on reading speed, but for certain texts it may provide a marginal benefit.
-Assuming the effect was not jus caused by chance (which there is a 3.98% probability of),
-it was not clear from our study which properties of text 0 caused the use of capitals to
-provide a benefit.
-
 ## Licence
 
 This program is licensed under the [GNU Affero General Public License][agpl3],
@@ -317,3 +317,5 @@ version 3 or later.
 [doublewise]: http://doublewise.net
 [Smogon]: http://smogon.com
 [Smash Boards]: http://www.smashboards.com
+[A-star]: https://en.wikipedia.org/wiki/Anderson-Darling_statistic
+[t-test]: https://en.wikipedia.org/wiki/Student%27s_t-test
