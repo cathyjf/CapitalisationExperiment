@@ -150,7 +150,7 @@ capitalised time. One requirement for this test is that each of the populations
 are normally distributed, which appeared to be the case here (again with the possible
 exception of normally capitalised test 2). The P-value given in the chart is the
 chance of the sample means being this far apart or father if the population means
-are equal (that is, a low P-value would mean that the use of capitals has a statically
+are equal (that is, a low P-value would mean that the use of capitals has a statistically
 significant correlation with a change in reading speed).
 
 The intervals shown in the chart are 95% confidence intervals; that is, the true
