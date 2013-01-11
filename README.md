@@ -24,7 +24,7 @@ on the reading comprehension test for the duration of those up to ten minutes.
 
 When a visitor agreed to take a test, one of four pre-created reading comprehension
 tests was randomly selected, and it was also randomly chosen whether the text would
-be in all-lowercase or normally capitalised. Each visitors was allowed to take up to
+be in all-lowercase or normally capitalised. Each visitor was allowed to take up to
 two tests, but could also stop after taking one. If a visitor decided to take a second
 test, it would not be the same reading comprehension sample.
 
@@ -36,8 +36,8 @@ to each individual test. They appeared in a random order for each subject.
 
 Invitations to participate in this study were publicly posted on several popular
 internet forums of which the authors were members (notably [Smogon][] and [Smash Boards][]).
-After the study having been open for a few weeks, participation dried up, so the
-study was deemed completed.
+After the study had been open for a few weeks, participation dried up, so the
+data collection phase of the study was deemed completed.
 
 ## Analysis and results
 
@@ -154,8 +154,8 @@ significant correlation with a change in reading speed).
 
 The intervals shown in the chart are 95% confidence intervals; that is, the true
 population mean lies within the interval with 95% confidence. In the case of the
-column for the mean difference, if the true mean difference is zero, then it means
-the mean reading time is the same regardless of whether capitals are employed.
+column for the mean difference, if the true mean difference is zero, then it indicates
+that the mean reading time is the same regardless of whether capitals are employed.
 For tests 1 through 3, the interval does contain zero, but in the case of test 0,
 it does not contain zero, so with 95% confidence, the population means are not equal
 for test 0.
@@ -165,17 +165,19 @@ for test 0.
 There was no reason to reject the null hypothesis for tests 1 through 3. The P-value
 was very high for tests 1 and 3. Although it was slightly lower for test 2, it was still
 very high, and the relatively low value was likely a result of the non-normal shape of
-the sample data. However, in the case of test 0, the P-value was much lower and provides
-evidence that the mean reading time was different for that test depending on whether
-it was in capitals or all-lowercase.
+the sample data for normally capitalised test 2. However, in the case of test 0, the
+P-value was much lower and provides evidence that the mean reading time was different
+for that test depending on whether it was in capitals or all-lowercase.
 
 These results suggest that for most texts, whether a text is capitalised or not has no
 effect on reading speed, but for certain texts it may provide a marginal benefit.
-Assuming the effect was not jus caused by chance (which there is a 3.98% probability of),
+Assuming the effect was not merely caused by chance (of which there is a 3.98% probability),
 it was not clear from our study which properties of text 0 caused the use of capitals to
 provide a benefit.
 
 ### Table 2: Breakdown of completed tests with acceptable scores
+
+This tables shows how many of each kind of test were completed.
 
 <table border="1">
   <tbody>
