@@ -1,9 +1,9 @@
 # The effect of capitalisation on reading speed
+> by [Cathy J. Fitzpatrick][cathyjf] and [David Stone][doublewise]
 
 Does the use of capital letters in English affect reading speed (compared to
 using all lowercase)? In May 2009, using the program contained in this
-repository, [Cathy J. Fitzpatrick][cathyjf] and [David Stone][doublewise] carried
-out a study to attempt to answer this question.
+repository, we carried out a study to attempt to answer this question.
 
 ## Experimental design
 
