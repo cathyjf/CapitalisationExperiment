@@ -177,7 +177,7 @@ provide a benefit.
 
 ### Table 2: Breakdown of completed tests with acceptable scores
 
-This tables shows how many of each kind of test were completed.
+This table shows how many of each kind of test were completed.
 
 <table border="1">
   <tbody>
