@@ -128,7 +128,7 @@ function inverseCdf($p0, $df) {
 		$p = stats_cdf_t($t, $df, 1);
 		$diff = $p - $p0;
 		$t += -abs($diff) / $diff * 0.0001;
-	} while (abs($diff) > 0.1);
+	} while (abs($diff) > 0.00001);
 	return $t;
 }
 
